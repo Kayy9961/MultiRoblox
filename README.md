@@ -4,8 +4,7 @@
 
 Funciona de manera similar a "Close Handle" de **Process Explorer**, pero automatizado, centrado solo en ese evento y sin necesidad de matar el proceso.
 
-<img width="1120" height="577" alt="Captura de pantalla 2025-11-02 214346" src="https://github.com/user-attachments/assets/53715a57-e791-4a73-b02e-0bc66bed8fc3" />
-
+<img width="1563" height="259" alt="ima34243ge" src="https://github.com/user-attachments/assets/79b8f8b5-9514-4a7b-a2fe-299ab36bb410" />
 
 ## ✅ Características
 
